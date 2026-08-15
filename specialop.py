@@ -10,6 +10,7 @@ print(60 in a)
 
 a= 10 
 b = 10
+C=10
 
 print (a is b)
 
