@@ -37,6 +37,22 @@
 # print(sum)    
 
 
+# Q9 
+
+# n=int(input("N:"))
+# pro=1
+# for i in range(1,n+1):
+#     pro*=i
+
+# print(pro)
+# i=1
+# while i<=n:
+#     pro*=i
+#     i+=1
+# print(pro)    
+
+
+
 
 
         
