@@ -9,3 +9,7 @@ print(s1.rindex('o'))
 print(s1.count('m'))
 s2='adminßad'
 print(s2.casefold())
+print(s1.split())
+s3='lorem3'
+words = ["P", "y", "t", "h", "o", "n"]
+print("".join(words))
