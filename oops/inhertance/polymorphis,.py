@@ -16,3 +16,6 @@ obj.speak()
 
 obj1=Lion()
 obj1.speak()
+obj1.speak()
+obj1.speak()
+obj1.speak()
